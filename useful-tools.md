@@ -150,7 +150,7 @@ The below instructions are for \*Nix Operating Systems, but the concept will be 
 1. Paste your copied cookie string to that box
 1. Click Save
 
-> If user agent is required for your tracker, it can be found in the Request Headers
+> If Cookie User-Agent is required for your tracker, it can be found in the same Request Headers section listed below the "Cookie:" subsection as "User-Agent:". Copy-paste the information provided.
 {.is-info}
 
 ### Notes
