@@ -2,15 +2,15 @@
 title: Prowlarr Supported Indexers
 description: Indexers currently named as supported in the current nightly build of Prowlarr. Other indexers may be available via either Generic Newznab or Generic Torznab.
 published: true
-date: 2024-05-22T22:42:25.210157
+date: 2024-05-25T00:59:30.339147
 tags: prowlarr, indexers
 editor: markdown
-dateCreated: 2024-05-22T22:42:25.210157
+dateCreated: 2024-05-25T00:59:30.339147
 ---
 
 - Supported Trackers and Indexers as of
-  - Prowlarr Build `1.18.0.4522` / [Commit: 74509ea7c9f198116983b1c97083b5bb17b92e45](https://github.com/Prowlarr/Prowlarr/commit/74509ea7c9f198116983b1c97083b5bb17b92e45)
-  - [Prowlarr Indexers Commit: 83a55795a1c9579e05fa5c001d5d82f1d68c07c0](https://github.com/Prowlarr/Indexers/commit/83a55795a1c9579e05fa5c001d5d82f1d68c07c0)
+  - Prowlarr Build `1.18.0.4525` / [Commit: 11864247eb970932a7547ff57a801253a50d91fe](https://github.com/Prowlarr/Prowlarr/commit/11864247eb970932a7547ff57a801253a50d91fe)
+  - [Prowlarr Indexers Commit: bc28ce0d5a9f9fd986a08ba8b85c0ae23021e016](https://github.com/Prowlarr/Indexers/commit/bc28ce0d5a9f9fd986a08ba8b85c0ae23021e016)
 
 ---
 
@@ -122,7 +122,7 @@ dateCreated: 2024-05-22T22:42:25.210157
 |[TorrentGalaxy](https://torrentgalaxy.to/){#torrentgalaxy}|TorrentGalaxy (TGx) is a Public site for TV / MOVIES / GENERAL|English (United States)|
 |[TorrentKitty](https://www.torrentkitty.tv/){#torrentkitty}|TorrentKitty is a Public torrent indexer|English (United States)|
 |[TorrentProject2](https://torrentproject2.net/){#torrentproject2}|TorrentProject2 is a Public torrent meta-search engine|English (United States)|
-|[TorrentQQ](https://torrentqq316.com/){#torrentqq}|TorrentQQ (토렌트큐큐) is a Public KOREAN tracker for Korean media|Korean (Korea)|
+|[TorrentQQ](https://torrentqq317.com/){#torrentqq}|TorrentQQ (토렌트큐큐) is a Public KOREAN tracker for Korean media|Korean (Korea)|
 |[TorrentsCSV](https://torrents-csv.com/){#torrentscsv}|Torrents\.csv is a self-hostable open source torrent search engine and database|English (United States)|
 |[TorrentSir](https://torrentsir145.com/){#torrentsir}|TorrentSir (토렌트썰) is a Public KOREAN tracker for Korean media|Korean (Korea)|
 |[TorrentView](https://viewtorrent19.com/){#torrentview}|Torrent View  (토렌트뷰) is a Public KOREAN tracker for Korean media|Korean (Korea)|
